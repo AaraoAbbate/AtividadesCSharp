@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\bin\Debug\AulaTeste2.exe.config
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\bin\Debug\AulaTeste2.exe
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\bin\Debug\AulaTeste2.pdb
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\obj\Debug\AulaTeste2.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\obj\Debug\AulaTeste2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\obj\Debug\AulaTeste2.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\obj\Debug\AulaTeste2.exe
+C:\Users\aarao.avieira\source\repos\AulaTeste2\AulaTeste2\obj\Debug\AulaTeste2.pdb

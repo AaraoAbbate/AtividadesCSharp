@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\bin\Debug\AtividadeC#4numero.exe.config
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\bin\Debug\AtividadeC#4numero.exe
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\bin\Debug\AtividadeC#4numero.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\obj\Debug\AtividadeC#4numero.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\obj\Debug\AtividadeC#4numero.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\obj\Debug\AtividadeC#4numero.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\obj\Debug\AtividadeC#4numero.exe
+C:\Users\aarao.avieira\source\repos\AtividadeC#4numero\AtividadeC#4numero\obj\Debug\AtividadeC#4numero.pdb

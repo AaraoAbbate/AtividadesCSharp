@@ -1,0 +1,12 @@
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\bin\Debug\AulaTeste.exe.config
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\bin\Debug\AulaTeste.exe
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\bin\Debug\AulaTeste.pdb
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\bin\Debug\AulaTeste.xml
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.vbproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.Resources.resources
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.vbproj.GenerateResource.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.vbproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.exe
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.xml
+C:\Users\aarao.avieira\source\repos\AulaTeste\AulaTeste\obj\Debug\AulaTeste.pdb

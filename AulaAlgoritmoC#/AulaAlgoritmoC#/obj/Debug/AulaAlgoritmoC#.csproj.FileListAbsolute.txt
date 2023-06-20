@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\bin\Debug\AulaAlgoritmoC#.exe.config
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\bin\Debug\AulaAlgoritmoC#.exe
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\bin\Debug\AulaAlgoritmoC#.pdb
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\obj\Debug\AulaAlgoritmoC#.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\obj\Debug\AulaAlgoritmoC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\obj\Debug\AulaAlgoritmoC#.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\obj\Debug\AulaAlgoritmoC#.exe
+C:\Users\aarao.avieira\source\repos\AulaAlgoritmoC#\AulaAlgoritmoC#\obj\Debug\AulaAlgoritmoC#.pdb
