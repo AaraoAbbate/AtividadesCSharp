@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\bin\Debug\AtividadeCpftest.exe.config
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\bin\Debug\AtividadeCpftest.exe
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\bin\Debug\AtividadeCpftest.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\obj\Debug\AtividadeCpftest.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\obj\Debug\AtividadeCpftest.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\obj\Debug\AtividadeCpftest.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\obj\Debug\AtividadeCpftest.exe
+C:\Users\aarao.avieira\source\repos\AtividadeCpftest\AtividadeCpftest\obj\Debug\AtividadeCpftest.pdb

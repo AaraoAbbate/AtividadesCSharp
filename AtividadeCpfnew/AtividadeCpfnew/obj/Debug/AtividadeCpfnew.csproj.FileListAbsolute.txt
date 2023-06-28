@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\bin\Debug\AtividadeCpfnew.exe.config
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\bin\Debug\AtividadeCpfnew.exe
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\bin\Debug\AtividadeCpfnew.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\obj\Debug\AtividadeCpfnew.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\obj\Debug\AtividadeCpfnew.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\obj\Debug\AtividadeCpfnew.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\obj\Debug\AtividadeCpfnew.exe
+C:\Users\aarao.avieira\source\repos\AtividadeCpfnew\AtividadeCpfnew\obj\Debug\AtividadeCpfnew.pdb

@@ -1,0 +1,15 @@
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\bin\Debug\net6.0\AtividadeCpf.exe
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\bin\Debug\net6.0\AtividadeCpf.deps.json
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\bin\Debug\net6.0\AtividadeCpf.runtimeconfig.json
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\bin\Debug\net6.0\AtividadeCpf.dll
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\bin\Debug\net6.0\AtividadeCpf.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.AssemblyInfoInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.AssemblyInfo.cs
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.dll
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\refint\AtividadeCpf.dll
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\AtividadeCpf.genruntimeconfig.cache
+C:\Users\aarao.avieira\source\repos\AtividadeCpf\AtividadeCpf\obj\Debug\net6.0\ref\AtividadeCpf.dll

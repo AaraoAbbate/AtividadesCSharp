@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\bin\Debug\NewValidCPF.exe.config
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\bin\Debug\NewValidCPF.exe
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\bin\Debug\NewValidCPF.pdb
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\obj\Debug\NewValidCPF.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\obj\Debug\NewValidCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\obj\Debug\NewValidCPF.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\obj\Debug\NewValidCPF.exe
+C:\Users\aarao.avieira\source\repos\NewValidCPF\NewValidCPF\obj\Debug\NewValidCPF.pdb

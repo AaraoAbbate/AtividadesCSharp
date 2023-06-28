@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\bin\Debug\AtividadeValidCpf.exe.config
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\bin\Debug\AtividadeValidCpf.exe
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\bin\Debug\AtividadeValidCpf.pdb
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\obj\Debug\AtividadeValidCpf.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\obj\Debug\AtividadeValidCpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\obj\Debug\AtividadeValidCpf.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\obj\Debug\AtividadeValidCpf.exe
+C:\Users\aarao.avieira\source\repos\AtividadeValidCpf\AtividadeValidCpf\obj\Debug\AtividadeValidCpf.pdb

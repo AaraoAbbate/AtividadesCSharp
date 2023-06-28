@@ -38,8 +38,8 @@
             this.txtNota4 = new System.Windows.Forms.TextBox();
             this.LblMédia = new System.Windows.Forms.Label();
             this.LblSituacao = new System.Windows.Forms.Label();
+            this.LblSituation = new System.Windows.Forms.Label();
             this.LblResultadoMedia = new System.Windows.Forms.Label();
-            this.LblResultadoMédia = new System.Windows.Forms.Label();
             this.BtnCalcular = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -135,32 +135,31 @@
             this.LblSituacao.TabIndex = 9;
             this.LblSituacao.Text = "Situação:";
             // 
+            // LblSituation
+            // 
+            this.LblSituation.AutoSize = true;
+            this.LblSituation.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblSituation.Location = new System.Drawing.Point(410, 163);
+            this.LblSituation.Name = "LblSituation";
+            this.LblSituation.Size = new System.Drawing.Size(15, 20);
+            this.LblSituation.TabIndex = 10;
+            this.LblSituation.Text = "-";
+            // 
             // LblResultadoMedia
             // 
-            this.LblResultadoMedia.AutoSize = true;
-            this.LblResultadoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblResultadoMedia.Location = new System.Drawing.Point(410, 163);
+            this.LblResultadoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblResultadoMedia.Location = new System.Drawing.Point(335, 48);
             this.LblResultadoMedia.Name = "LblResultadoMedia";
-            this.LblResultadoMedia.Size = new System.Drawing.Size(85, 20);
-            this.LblResultadoMedia.TabIndex = 10;
-            this.LblResultadoMedia.Text = "Aprovado";
-            // 
-            // LblResultadoMédia
-            // 
-            this.LblResultadoMédia.AutoSize = true;
-            this.LblResultadoMédia.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblResultadoMédia.Location = new System.Drawing.Point(383, 48);
-            this.LblResultadoMédia.Name = "LblResultadoMédia";
-            this.LblResultadoMédia.Size = new System.Drawing.Size(99, 108);
-            this.LblResultadoMédia.TabIndex = 11;
-            this.LblResultadoMédia.Text = "7";
-
+            this.LblResultadoMedia.Size = new System.Drawing.Size(176, 108);
+            this.LblResultadoMedia.TabIndex = 11;
+            this.LblResultadoMedia.Text = "--";
+            this.LblResultadoMedia.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // BtnCalcular
             // 
             this.BtnCalcular.Location = new System.Drawing.Point(330, 197);
             this.BtnCalcular.Name = "BtnCalcular";
-            this.BtnCalcular.Size = new System.Drawing.Size(165, 90);
+            this.BtnCalcular.Size = new System.Drawing.Size(165, 55);
             this.BtnCalcular.TabIndex = 12;
             this.BtnCalcular.Text = "Calcular";
             this.BtnCalcular.UseVisualStyleBackColor = true;
@@ -170,10 +169,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(604, 450);
+            this.ClientSize = new System.Drawing.Size(560, 332);
             this.Controls.Add(this.BtnCalcular);
-            this.Controls.Add(this.LblResultadoMédia);
             this.Controls.Add(this.LblResultadoMedia);
+            this.Controls.Add(this.LblSituation);
             this.Controls.Add(this.LblSituacao);
             this.Controls.Add(this.LblMédia);
             this.Controls.Add(this.txtNota4);
@@ -203,8 +202,8 @@
         private System.Windows.Forms.TextBox txtNota4;
         private System.Windows.Forms.Label LblMédia;
         private System.Windows.Forms.Label LblSituacao;
+        private System.Windows.Forms.Label LblSituation;
         private System.Windows.Forms.Label LblResultadoMedia;
-        private System.Windows.Forms.Label LblResultadoMédia;
         private System.Windows.Forms.Button BtnCalcular;
     }
 }
