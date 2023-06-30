@@ -179,6 +179,11 @@ namespace ValidacaoCnpjCpf
         {
 
         }
+
+        private void cancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
 
