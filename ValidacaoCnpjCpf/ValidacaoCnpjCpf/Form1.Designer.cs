@@ -43,7 +43,6 @@
             this.textbox.Name = "textbox";
             this.textbox.Size = new System.Drawing.Size(318, 40);
             this.textbox.TabIndex = 0;
-            
             // 
             // optionCNPJ
             // 

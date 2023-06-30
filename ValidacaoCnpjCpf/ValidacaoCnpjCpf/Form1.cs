@@ -33,7 +33,7 @@ namespace ValidacaoCnpjCpf
 
                 if (string.IsNullOrEmpty(cpf))
                 {
-                    MessageBox.Show("Por favor, preencha o campo de CPF.");
+                    MessageBox.Show($"Por favor, preencha o campo de CPF. {cpf}" , "Atenção!" , MessageBoxButtons.OKCancel , MessageBoxIcon.Exclamation);
                     return;
                 }
 
@@ -50,7 +50,7 @@ namespace ValidacaoCnpjCpf
                 bool isNumeric = cpf.All(char.IsDigit);
                 if (!isNumeric)
                 {
-                    MessageBox.Show("Entrada inválida. Digite apenas números.");
+                    MessageBox.Show($"Entrada inválida. Digite apenas 11 números : {cpf}" , "Atenção!" , MessageBoxButtons.OKCancel , MessageBoxIcon.Exclamation);
                     return;
                 }
 
@@ -84,74 +84,82 @@ namespace ValidacaoCnpjCpf
 
                 if (resto1 == numerosInteiro[9] && resto2 == numerosInteiro[10])
                 {
-                    MessageBox.Show("CPF válido: " + cpfFormatado);
+                    MessageBox.Show($"CPF válido: {cpfFormatado}", "sucesso", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
                 }
                 else
                 {
-                    MessageBox.Show("CPF inválido: " + cpfFormatado);
+                    MessageBox.Show($"CPF inválido: {cpfFormatado}", "Erro", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
                 }
             }
             else if (optionCNPJ.Checked) //-----------------------------------------------
             {
-                int[] peso1 = { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };     
+                int[] peso1 = { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
                 int[] peso2 = { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
 
                 string cnpj = textbox.Text;
 
-                int[] numerosInteiro = new int[14];
-                for (int i = 0; i < cnpj.Length; i++)
+                if (string.IsNullOrEmpty(cnpj))
                 {
-                    numerosInteiro[i] = Convert.ToInt32(cnpj[i].ToString());
-                }
-                string cpf = textbox.Text;
-
-                bool isNumeric = cpf.All(char.IsDigit);
-                if (!isNumeric)
-                {
-                    MessageBox.Show("Entrada inválida. Digite apenas números.");
+                    MessageBox.Show($"Por favor, preencha o campo de CNPJ.{cnpj}" , "Atenção!" , MessageBoxButtons.OKCancel , MessageBoxIcon.Exclamation);
                     return;
                 }
 
+                bool isNumeric = cnpj.All(char.IsDigit);
+                if (!isNumeric)
+                {
+                    MessageBox.Show($"Entrada inválida. Digite apenas 14 números : {cnpj}", "Atenção!", MessageBoxButtons.OKCancel , MessageBoxIcon.Exclamation) ;
+                    return;
+                }
 
-
-
+                int[] numerosInteiro = cnpj.Select(digito => Convert.ToInt32(digito.ToString())).ToArray();
 
                 int soma1 = 0;
+
                 for (int i = 0; i < 12; i++)
                 {
                     soma1 += numerosInteiro[i] * peso1[i];
                 }
-                int resto1 = (soma1 % 11);
-                resto1 = resto1 < 2 ? 0 : 11 - resto1;
-
+                int resto1 = soma1 % 11;
+                if (resto1 < 2)
+                {
+                    resto1 = 0;
+                }
+                else 
+                {
+                    resto1 = 11 - resto1;
+                }
                 int soma2 = 0;
+
                 for (int i = 0; i < 13; i++)
                 {
                     soma2 += numerosInteiro[i] * peso2[i];
                 }
-                int resto2 = (soma2 % 11);
-                resto2 = resto2 < 2 ? 0 : 11 - resto2;
+                int resto2 = soma2 % 11;
 
-                string cnpjFormatado = $"{cnpj.Substring(0, 2)}.{cnpj.Substring(2, 3)}.{cnpj.Substring(5, 3)}/{cnpj.Substring(8, 4)}-{cnpj.Substring(12, 2)}";
-
-                if (string.IsNullOrEmpty(cnpj))
+                if (resto2 < 2)
                 {
-                    MessageBox.Show("Por favor, preencha o campo de CPF.");
-                    return;
-                }
-
-                if (resto1 == numerosInteiro[12] && resto2 == numerosInteiro[13])
-
-
-
-                
-                {
-                    Console.WriteLine("CNPJ válido: " + cnpjFormatado);
+                    resto2 = 0;
                 }
                 else
                 {
-                    Console.WriteLine("CNPJ inválido: " + cnpjFormatado);
+                    resto2 = 11 - resto2;
                 }
+
+               
+
+                string cnpjFormatado = $"{cnpj.Substring(0, 2)}.{cnpj.Substring(2, 3)}.{cnpj.Substring(5, 3)}/{cnpj.Substring(8, 4)}-{cnpj.Substring(12, 2)}";
+
+
+                if (resto1 == numerosInteiro[12] && resto2 == numerosInteiro[13])
+                {
+                    MessageBox.Show($"CNPJ válido: {cnpjFormatado}", "sucesso",MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show($"CNPJ inválido: {cnpjFormatado}", "Erro", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+                }
+
+
 
 
 
