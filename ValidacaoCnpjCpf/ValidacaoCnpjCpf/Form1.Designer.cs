@@ -34,6 +34,7 @@
             this.confirm = new System.Windows.Forms.Button();
             this.cancel = new System.Windows.Forms.Button();
             this.titlegeneration = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // textbox
@@ -113,6 +114,7 @@
             this.Controls.Add(this.optionCPF);
             this.Controls.Add(this.optionCNPJ);
             this.Controls.Add(this.textbox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
@@ -130,6 +132,7 @@
         private System.Windows.Forms.Button confirm;
         private System.Windows.Forms.Button cancel;
         private System.Windows.Forms.Label titlegeneration;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

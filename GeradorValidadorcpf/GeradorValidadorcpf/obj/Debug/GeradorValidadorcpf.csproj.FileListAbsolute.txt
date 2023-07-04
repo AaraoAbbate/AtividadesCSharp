@@ -1,0 +1,11 @@
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\bin\Debug\GeradorValidadorcpf.exe.config
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\bin\Debug\GeradorValidadorcpf.exe
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\bin\Debug\GeradorValidadorcpf.pdb
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.Form1.resources
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.Properties.Resources.resources
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.csproj.GenerateResource.cache
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.exe
+C:\Users\aarao.avieira\source\repos\GeradorValidadorcpf\GeradorValidadorcpf\obj\Debug\GeradorValidadorcpf.pdb

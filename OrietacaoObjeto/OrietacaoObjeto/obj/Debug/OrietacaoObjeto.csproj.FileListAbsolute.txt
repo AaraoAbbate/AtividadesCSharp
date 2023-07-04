@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\bin\Debug\OrietacaoObjeto.exe.config
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\bin\Debug\OrietacaoObjeto.exe
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\bin\Debug\OrietacaoObjeto.pdb
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\obj\Debug\OrietacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\obj\Debug\OrietacaoObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\obj\Debug\OrietacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\obj\Debug\OrietacaoObjeto.exe
+C:\Users\aarao.avieira\source\repos\OrietacaoObjeto\OrietacaoObjeto\obj\Debug\OrietacaoObjeto.pdb

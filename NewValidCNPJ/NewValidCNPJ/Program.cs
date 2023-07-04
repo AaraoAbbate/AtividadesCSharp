@@ -17,7 +17,7 @@ namespace testevalidcnpj
 
 
 
-            int[] peso1 = { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };     //variaveis para os dois ultimos digitos verificadores 
+            int[] peso1 = { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };     
             int[] peso2 = { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
 
 
