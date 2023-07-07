@@ -1,0 +1,8 @@
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\bin\Debug\AppBiblioteca.exe.config
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\bin\Debug\AppBiblioteca.exe
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\bin\Debug\AppBiblioteca.pdb
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.exe
+C:\Users\aarao.avieira\source\repos\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.pdb

@@ -1,0 +1,11 @@
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Form1.resources
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\aarao.avieira\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
