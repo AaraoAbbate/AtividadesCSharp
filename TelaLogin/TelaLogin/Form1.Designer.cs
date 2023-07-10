@@ -67,7 +67,6 @@
             this.label1.Size = new System.Drawing.Size(41, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Email";
-        
             // 
             // label2
             // 
@@ -97,7 +96,7 @@
             this.Cancel.TabIndex = 5;
             this.Cancel.Text = "Cancelar";
             this.Cancel.UseVisualStyleBackColor = true;
-           
+            this.Cancel.Click += new System.EventHandler(this.Cancel_Click);
             // 
             // pictureBox1
             // 

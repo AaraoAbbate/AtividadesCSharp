@@ -12,10 +12,10 @@ namespace Atividadeclasses
         public int IdCliente { get; set; }
         public string Nome { get; set; }
    
-        public int CPF { get; set; }
+        public string CPF { get; set; }
         public int Quantidade { get; set; } 
 
-        public Cliente(int idCliente = 0, string nome ="", int cpf = 0, int quantidade = 0)
+        public Cliente(int idCliente = 0, string nome ="", string cpf = "03361406811", int quantidade = 0)
         {
             IdCliente = idCliente;
             Nome = nome;
@@ -26,7 +26,7 @@ namespace Atividadeclasses
         {
             Console.WriteLine("Dados do Cliente");
             Console.WriteLine($"Id: {IdCliente}");
-            Console.WriteLine($"Nome {Nome}");
+            Console.WriteLine($"Nome ");
             Console.WriteLine($"Cpf: {CPF}");
         }
     }   

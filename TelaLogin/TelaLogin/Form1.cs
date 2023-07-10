@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Linq;
@@ -21,10 +22,10 @@ namespace TelaLogin
             InitializeComponent();
 
             listaEmails.Add("aaraoabbate@gmail.com");
-            listaEmails.Add("merlinsama01@gmail.com");
+            
 
             listaSenhas.Add("170401");
-            listaSenhas.Add("cafezinho");
+            
         }
 
         static List<string> ListaEmails = new List<string>();
@@ -45,17 +46,19 @@ namespace TelaLogin
             string email = textBox1.Text;
             string senhas = textBox2.Text;
 
-            if (!string.IsNullOrWhiteSpace(email))
-            {
-                if (ValidarCredenciais(email, senhas))
-                {
-                    MessageBox.Show("Bem vindo!");
-                }
-            }
-            else
+            if (string.IsNullOrWhiteSpace(email))
             {
                 MessageBox.Show("E-mail inválido!");
             }
+            else if (ValidarCredenciais(email, senhas))
+            {
+                MessageBox.Show("Bem-vindo!");
+            }
+            else
+            {
+                MessageBox.Show("Email ou senha inválida!");
+            }
+
 
 
         }
@@ -69,6 +72,11 @@ namespace TelaLogin
             }
 
             return false;
+        }
+
+        private void Cancel_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

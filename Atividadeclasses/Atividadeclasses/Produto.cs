@@ -9,14 +9,14 @@ namespace Atividadeclasses
     internal class Produto
     {
         public int IdProduto { get; set; }
-        public string Nome { get; set; }
+        public string Nomep { get; set; }
         public string quantidade { get; set; }
         public double preco { get ; set; }
 
-        public Produto(int idProduto = 0, string nome = "", string quantidade = "", double preco = 0)
+        public Produto(int idProduto = 0, string nomeP = "", string quantidade = "", double preco = 0)
         {
             IdProduto = idProduto;
-            Nome = nome;
+            Nomep = nomeP;
             this.quantidade = quantidade;
             this.preco = preco;
         }
@@ -24,7 +24,7 @@ namespace Atividadeclasses
         {
             Console.WriteLine("Dados do Produto");
             Console.WriteLine($"Id: {IdProduto} ");
-            Console.WriteLine($"Nome {Nome}");
+            Console.WriteLine($"Nome {Nomep}");
             Console.WriteLine($"Quantidade {quantidade}");
             Console.WriteLine($"Preço {preco}");
         }
