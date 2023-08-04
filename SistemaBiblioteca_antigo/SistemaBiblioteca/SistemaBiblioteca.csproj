@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CAB1168B-5BA7-4065-A613-BCF1BD0F83F8}</ProjectGuid>
+    <ProjectGuid>{5F47C3F7-89A9-4D52-B5A4-131A9CBAF6D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>SistemaBiblioteca</RootNamespace>
     <AssemblyName>SistemaBiblioteca</AssemblyName>
@@ -58,12 +58,6 @@
     <Compile Include="FrmCadastroLivro.Designer.cs">
       <DependentUpon>FrmCadastroLivro.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmPrincipal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmPrincipal.Designer.cs">
-      <DependentUpon>FrmPrincipal.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmCadastroAluno.resx">
@@ -71,9 +65,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCadastroLivro.resx">
       <DependentUpon>FrmCadastroLivro.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmPrincipal.resx">
-      <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
